@@ -1,0 +1,209 @@
+#firstPage{
+  background-color: #ecf8e5;
+  /* border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 300px; */
+}
+
+#secondPage{
+  margin-bottom: 200px;
+}
+
+#lastPage{
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+h1{
+  font-size: 3rem;
+  color: #347571;
+  padding-top: 30px;
+}
+.margin{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.last-block{
+  text-align: center;
+  background-color: #ecf8e5;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.fifth-block{
+  text-align: center;
+}
+
+.fpc{
+  margin-left: 20%;
+}
+
+.fourth-table{
+  margin-top: 100px;
+}
+
+.thead{
+  padding-left: 40px;
+  text-align: center;
+}
+
+.thd{
+  font-size: 2.5rem;
+  color: #5ec57e;
+}
+
+.td{
+  font-size: 1.8rem;
+  color: #5ec57e;
+  font-weight: bold;
+}
+
+.tdb{
+  font-size: 2rem;
+  padding: 60px;
+  color: #347571;
+}
+
+.card-img-top{
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+.service1{
+  background-color: #f7fdf3;
+}
+
+.service2{
+  background-color: #ecf8e5;
+}
+
+.service3{
+  background-color: #dcf4ce;
+}
+
+.card-img-top{
+  width: 250px;
+  height: 140px;
+}
+
+.service{
+  text-align: center;
+  margin: 0;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.second-text{
+  padding-top: 40%;
+  padding-left: 20%
+}
+
+.f-left-side{
+  margin-bottom: 150px;
+}
+
+.container{
+  margin-top: 0;
+}
+/* Images*/
+.f-image{
+  weight: 866;
+  height: 574;
+}
+
+.second-page{
+  padding-top: 25%;
+}
+
+.btn{
+  background-color: #5ec57e;
+  color: #ffffff;
+  border-radius: 60px;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  margin-top: 54px;
+  font-size: 1.5rem;
+}
+
+.btn:hover{
+  color: #5ec57e;
+  font-weight: bold;
+}
+
+.btn-arrow{
+  margin: 40px;
+  weight: 60px;
+  height: 60px;
+}
+
+.row{
+  padding: 15px;
+}
+
+.nav{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left:0;
+}
+/* Images */
+.logo{
+  weight: 40px;
+  height: 40px;
+}
+
+/* Typography */
+.logo-p{
+  font-size: 1rem;
+  color: #347571;
+}
+
+.second-h2{
+  font-size: 2.5rem;
+  color: #5ec57e;
+}
+
+.last-h2{
+  font-size: 2.5rem;
+  color: #5ec57e;
+}
+
+.last-h3{
+  color: #5ec57e;
+  font-size: 2rem;
+}
+
+.last-p{
+  color: #347571;
+  font-size: 1.2rem;
+}
+
+.second-p{
+  font-size: 1.3rem;
+  color: #347571;
+}
+
+.third-h2{
+  font-size: 2.5rem;
+  color: #5ec57e;
+  text-align: center;
+  padding: 2.5rem;
+  margin-bottom: 40px;
+}
+
+.card-title{
+  margin: 20px;
+  font-size: 1.8rem;
+  color: #5ec57e;
+}
+
+.card-text{
+  font-size: 1.1rem;
+  color: #347351;
+}
+
+.fifth-p{
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #5ec57e;
+  padding: 30px;
+}
